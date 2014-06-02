@@ -36,7 +36,7 @@ For example, when given "word", your program should return:
   definition: "a collection of letters",
   see_also: [
     "//example.com/letter",
-    "//example.com/collection"
+    "//example.us/collection"
   ]
 }
 ```
